@@ -1,0 +1,20 @@
+
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+    border-width: 10px;
+   
+   
+}
+
+.text1 {
+  border-width: 10px;
+  
+  
+}
+.text2 {
+  border-width: 10px;
+
+   
+}
